@@ -1,6 +1,6 @@
 {
   "name": "minweb",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "min web",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/jiuhuan/minweb#readme",
   "bin": {
-    "minweb": "./index.js"
+    "minweb": "./bin/minweb.js"
   },
   "dependencies": {
     "express": "^4.13.3" 
